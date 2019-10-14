@@ -18,6 +18,9 @@
   },
   "gitHead": "98859fe310a550ca9f680aab3092897a446ad741",
   "dependencies": {
-    "moment": "^2.24.0"
+    "antd": "^3.23.6",
+    "bootstrap": "^4.3.1",
+    "moment": "^2.24.0",
+    "rxjs": "^6.5.3"
   }
 }
