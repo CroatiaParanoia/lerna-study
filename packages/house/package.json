@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "v_kuhlu <v_kuhlu@tencent.com>",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "window": "^0.0.1"
+    "window": "^0.0.2"
   },
   "gitHead": "698e0e24e74e6d8b11e90ab7b7cd67cb62cb7cd7"
 }
