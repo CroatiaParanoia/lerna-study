@@ -2,6 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.1",
-  "registry": "http://r.tnpm.oa.com"
+  "version": "0.0.1"
 }
